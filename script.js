@@ -121,16 +121,16 @@ const nextBtn = document.getElementById("nextBtn");
 
 // Images
 const images = [
-    "images/image1.jpg.jpeg",
-    "images/image2.jpg.jpeg",
-    "images/image3.jpg.jpeg",
-    "images/image4.jpg.jpeg",
-    "images/image5.jpg.jpeg",
-    "images/image6.jpg.jpeg",
-    "images/image7.jpg.jpeg",
-    "images/image8.jpg.jpeg",
-    "images/image9.jpg.jpeg",
-    "images/image10.jpg.jpeg"
+    "image1.jpg.jpeg",
+    "image2.jpg.jpeg",
+    "image3.jpg.jpeg",
+    "image4.jpg.jpeg",
+    "image5.jpg.jpeg",
+    "image6.jpg.jpeg",
+    "image7.jpg.jpeg",
+    "image8.jpg.jpeg",
+    "image9.jpg.jpeg",
+    "image10.jpg.jpeg"
 ];
 
 // Captions
